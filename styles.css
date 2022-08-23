@@ -48,6 +48,7 @@ body{
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
+    transition: .40s;
 }
 
 .botao_secundario{
@@ -177,6 +178,7 @@ body{
 
 .container__botao:hover{
 
+    transition: .80s;
     background-color: var(--botao-azul-efeito);
     font-weight: 700;
     padding: 22px 10px;
